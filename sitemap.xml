@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://noklam.github.io/kedro/io.core.html</loc>
+    <lastmod>2022-08-10T14:42:07.227Z</lastmod>
+  </url>
+  <url>
+    <loc>https://noklam.github.io/kedro/extras.datasets.html</loc>
+    <lastmod>2022-08-10T14:42:07.875Z</lastmod>
+  </url>
+  <url>
+    <loc>https://noklam.github.io/kedro/utils.html</loc>
+    <lastmod>2022-08-10T14:42:08.223Z</lastmod>
+  </url>
+  <url>
+    <loc>https://noklam.github.io/kedro/card.html</loc>
+    <lastmod>2022-08-10T14:42:08.567Z</lastmod>
+  </url>
+  <url>
+    <loc>https://noklam.github.io/kedro/extras.pandas.html</loc>
+    <lastmod>2022-08-10T14:42:08.855Z</lastmod>
+  </url>
+  <url>
+    <loc>https://noklam.github.io/kedro/index.html</loc>
+    <lastmod>2022-08-10T14:42:09.135Z</lastmod>
+  </url>
+  <url>
+    <loc>https://noklam.github.io/kedro/extras.pandas.csv_dataset.html</loc>
+    <lastmod>2022-08-10T14:42:09.407Z</lastmod>
+  </url>
+</urlset>
